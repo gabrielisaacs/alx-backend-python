@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-# The types of the elements of the input are not know
+"""
+Given the parameters and the return values, add type
+annotations to the function
+The types of the elements of the input are not know
+"""
 
 from typing import Sequence, Any, Union
 
