@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+"""
+Augmenting the code with the correct
+duck-typed annotations
+"""
 
 from typing import Mapping, Any, TypeVar, Union
 
