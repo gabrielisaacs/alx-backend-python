@@ -12,6 +12,3 @@ async def main():
 print(
     asyncio.run(main())
 )
-
-bob@dylan:~$ ./2-main.py
-10.021936893463135
